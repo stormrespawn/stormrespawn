@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @stormrespawn
-- 👀 I’m interested in developing video games and creating art.
-- 🌱 I’m currently learning how to do both of these things from almost no experience.
-- 💞️ I’m looking to collaborate on video game development once I get more experience (I have none right now, so please join me on my journey!)
+- 👀 I’m interested in developing video games and creating art
+- 🌱 I’m currently learning how to do both of these things from almost no experience
+- 💞️ I’m looking to collaborate on video game development once I get more experience
+
+But, I have none right now, so please join me on my journey!
   <!---
   - 📫 How to reach me ...
 <!---
